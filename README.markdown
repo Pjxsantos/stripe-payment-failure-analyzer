@@ -58,7 +58,7 @@ Este projeto é uma ferramenta em Python para analisar falhas de pagamento na AP
 - Dashboard interativo com Flask ou Streamlit.
 
 ## Contato
-Desenvolvido por [Seu Nome]. Entre em contato via [seu-email@exemplo.com] ou [LinkedIn] para colaborações ou oportunidades.
+Desenvolvido por [Paulo Xavier]. Entre em contato via [admin@px.dev.br] ou [LinkedIn] para colaborações ou oportunidades.
 
 ## Licença
 MIT License
